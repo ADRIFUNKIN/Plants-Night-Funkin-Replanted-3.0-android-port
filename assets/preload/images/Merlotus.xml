@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Merlotus.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MerlotusBop0000" x="5" y="5" width="734" height="238"/>
+	<SubTexture name="MerlotusBop0001" x="5" y="5" width="734" height="238"/>
+	<SubTexture name="MerlotusBop0002" x="5" y="248" width="325" height="238" frameX="0" frameY="0" frameWidth="734" frameHeight="238"/>
+	<SubTexture name="MerlotusBop0003" x="5" y="248" width="325" height="238" frameX="0" frameY="0" frameWidth="734" frameHeight="238"/>
+	<SubTexture name="MerlotusBop0004" x="335" y="248" width="325" height="238" frameX="0" frameY="0" frameWidth="734" frameHeight="238"/>
+	<SubTexture name="MerlotusBop0005" x="335" y="248" width="325" height="238" frameX="0" frameY="0" frameWidth="734" frameHeight="238"/>
+	<SubTexture name="MerlotusBop0006" x="665" y="248" width="325" height="238" frameX="0" frameY="0" frameWidth="734" frameHeight="238"/>
+	<SubTexture name="MerlotusBop0007" x="665" y="248" width="325" height="238" frameX="0" frameY="0" frameWidth="734" frameHeight="238"/>
+	<SubTexture name="MerlotusBop0008" x="5" y="491" width="325" height="238" frameX="0" frameY="0" frameWidth="734" frameHeight="238"/>
+	<SubTexture name="MerlotusBop0009" x="5" y="491" width="325" height="238" frameX="0" frameY="0" frameWidth="734" frameHeight="238"/>
+	<SubTexture name="MerlotusBop0010" x="335" y="491" width="325" height="238" frameX="0" frameY="0" frameWidth="734" frameHeight="238"/>
+	<SubTexture name="MerlotusBop0011" x="335" y="491" width="325" height="238" frameX="0" frameY="0" frameWidth="734" frameHeight="238"/>
+	<SubTexture name="MerlotusBop0012" x="665" y="491" width="325" height="238" frameX="0" frameY="0" frameWidth="734" frameHeight="238"/>
+	<SubTexture name="MerlotusBop0013" x="665" y="491" width="325" height="238" frameX="0" frameY="0" frameWidth="734" frameHeight="238"/>
+	<SubTexture name="MerlotusBop0014" x="5" y="734" width="325" height="238" frameX="0" frameY="0" frameWidth="734" frameHeight="238"/>
+</TextureAtlas>

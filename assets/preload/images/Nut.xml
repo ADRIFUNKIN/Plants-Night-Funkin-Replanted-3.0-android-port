@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Nut.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="NutBop0000" x="5" y="5" width="113" height="170" frameX="-15" frameY="-9" frameWidth="141" frameHeight="182"/>
+	<SubTexture name="NutBop0001" x="5" y="5" width="113" height="170" frameX="-15" frameY="-9" frameWidth="141" frameHeight="182"/>
+	<SubTexture name="NutBop0002" x="123" y="5" width="115" height="174" frameX="-14" frameY="-3" frameWidth="141" frameHeight="182"/>
+	<SubTexture name="NutBop0003" x="123" y="5" width="115" height="174" frameX="-14" frameY="-3" frameWidth="141" frameHeight="182"/>
+	<SubTexture name="NutBop0004" x="243" y="5" width="118" height="176" frameX="-12" frameY="0" frameWidth="141" frameHeight="182"/>
+	<SubTexture name="NutBop0005" x="243" y="5" width="118" height="176" frameX="-12" frameY="0" frameWidth="141" frameHeight="182"/>
+	<SubTexture name="NutBop0006" x="366" y="5" width="118" height="172" frameX="-12" frameY="-5" frameWidth="141" frameHeight="182"/>
+	<SubTexture name="NutBop0007" x="366" y="5" width="118" height="172" frameX="-12" frameY="-5" frameWidth="141" frameHeight="182"/>
+	<SubTexture name="NutBop0008" x="5" y="186" width="118" height="162" frameX="-12" frameY="-17" frameWidth="141" frameHeight="182"/>
+	<SubTexture name="NutBop0009" x="5" y="186" width="118" height="162" frameX="-12" frameY="-17" frameWidth="141" frameHeight="182"/>
+	<SubTexture name="NutBop0010" x="128" y="186" width="137" height="138" frameX="-2" frameY="-44" frameWidth="141" frameHeight="182"/>
+	<SubTexture name="NutBop0011" x="128" y="186" width="137" height="138" frameX="-2" frameY="-44" frameWidth="141" frameHeight="182"/>
+	<SubTexture name="NutBop0012" x="270" y="186" width="128" height="148" frameX="-7" frameY="-33" frameWidth="141" frameHeight="182"/>
+	<SubTexture name="NutBop0013" x="5" y="353" width="141" height="143" frameX="0" frameY="-38" frameWidth="141" frameHeight="182"/>
+	<SubTexture name="NutBop0014" x="5" y="353" width="141" height="143" frameX="0" frameY="-38" frameWidth="141" frameHeight="182"/>
+</TextureAtlas>

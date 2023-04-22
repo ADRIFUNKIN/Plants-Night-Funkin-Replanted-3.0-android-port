@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="diary.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="diary basic0000" x="5" y="5" width="438" height="364"/>
+	<SubTexture name="diary white0000" x="448" y="5" width="438" height="364"/>
+	<SubTexture name="diary white0001" x="891" y="5" width="438" height="364"/>
+	<SubTexture name="diary white0002" x="1334" y="5" width="438" height="364"/>
+	<SubTexture name="diary white0003" x="1334" y="5" width="438" height="364"/>
+	<SubTexture name="diary white0004" x="5" y="374" width="438" height="364"/>
+	<SubTexture name="diary white0005" x="5" y="374" width="438" height="364"/>
+	<SubTexture name="diary white0006" x="448" y="374" width="438" height="364"/>
+	<SubTexture name="diary white0007" x="448" y="374" width="438" height="364"/>
+	<SubTexture name="diary white0008" x="891" y="374" width="438" height="364"/>
+	<SubTexture name="diary white0009" x="891" y="374" width="438" height="364"/>
+	<SubTexture name="diary white0010" x="1334" y="374" width="438" height="364"/>
+</TextureAtlas>

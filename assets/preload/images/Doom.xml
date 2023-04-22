@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Doom.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DoomBop0000" x="5" y="5" width="254" height="243" frameX="0" frameY="-5" frameWidth="261" frameHeight="248"/>
+	<SubTexture name="DoomBop0001" x="264" y="5" width="255" height="244" frameX="0" frameY="-4" frameWidth="261" frameHeight="248"/>
+	<SubTexture name="DoomBop0002" x="524" y="5" width="256" height="245" frameX="0" frameY="-3" frameWidth="261" frameHeight="248"/>
+	<SubTexture name="DoomBop0003" x="785" y="5" width="257" height="245" frameX="0" frameY="-3" frameWidth="261" frameHeight="248"/>
+	<SubTexture name="DoomBop0004" x="1047" y="5" width="257" height="246" frameX="-1" frameY="-2" frameWidth="261" frameHeight="248"/>
+	<SubTexture name="DoomBop0005" x="1309" y="5" width="258" height="246" frameX="-1" frameY="-2" frameWidth="261" frameHeight="248"/>
+	<SubTexture name="DoomBop0006" x="1572" y="5" width="259" height="247" frameX="0" frameY="-1" frameWidth="261" frameHeight="248"/>
+	<SubTexture name="DoomBop0007" x="5" y="257" width="260" height="247" frameX="0" frameY="-1" frameWidth="261" frameHeight="248"/>
+	<SubTexture name="DoomBop0008" x="270" y="257" width="259" height="247" frameX="-1" frameY="-1" frameWidth="261" frameHeight="248"/>
+	<SubTexture name="DoomBop0009" x="270" y="257" width="259" height="247" frameX="-1" frameY="0" frameWidth="261" frameHeight="248"/>
+	<SubTexture name="DoomBop0010" x="534" y="257" width="260" height="248" frameX="-1" frameY="0" frameWidth="261" frameHeight="248"/>
+	<SubTexture name="DoomBop0011" x="799" y="257" width="260" height="248" frameX="-1" frameY="0" frameWidth="261" frameHeight="248"/>
+	<SubTexture name="DoomBop0012" x="1064" y="257" width="260" height="248" frameX="-1" frameY="0" frameWidth="261" frameHeight="248"/>
+	<SubTexture name="DoomBop0013" x="1329" y="257" width="260" height="248" frameX="-1" frameY="0" frameWidth="261" frameHeight="248"/>
+	<SubTexture name="DoomBop0014" x="1594" y="257" width="260" height="248" frameX="-1" frameY="0" frameWidth="261" frameHeight="248"/>
+</TextureAtlas>

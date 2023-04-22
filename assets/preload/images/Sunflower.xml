@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sunflower.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FlowerBop0000" x="5" y="5" width="128" height="163" frameX="0" frameY="-11" frameWidth="129" frameHeight="174"/>
+	<SubTexture name="FlowerBop0001" x="5" y="5" width="128" height="163" frameX="0" frameY="-11" frameWidth="129" frameHeight="174"/>
+	<SubTexture name="FlowerBop0002" x="138" y="5" width="128" height="168" frameX="0" frameY="-6" frameWidth="129" frameHeight="174"/>
+	<SubTexture name="FlowerBop0003" x="138" y="5" width="128" height="168" frameX="0" frameY="-6" frameWidth="129" frameHeight="174"/>
+	<SubTexture name="FlowerBop0004" x="271" y="5" width="128" height="171" frameX="0" frameY="-3" frameWidth="129" frameHeight="174"/>
+	<SubTexture name="FlowerBop0005" x="271" y="5" width="128" height="171" frameX="0" frameY="-3" frameWidth="129" frameHeight="174"/>
+	<SubTexture name="FlowerBop0006" x="404" y="5" width="129" height="173" frameX="0" frameY="-1" frameWidth="129" frameHeight="174"/>
+	<SubTexture name="FlowerBop0007" x="404" y="5" width="129" height="173" frameX="0" frameY="-1" frameWidth="129" frameHeight="174"/>
+	<SubTexture name="FlowerBop0008" x="538" y="5" width="128" height="174" frameX="-1" frameY="0" frameWidth="129" frameHeight="174"/>
+	<SubTexture name="FlowerBop0009" x="538" y="5" width="128" height="174" frameX="-1" frameY="0" frameWidth="129" frameHeight="174"/>
+	<SubTexture name="FlowerBop0010" x="671" y="5" width="128" height="174" frameX="-1" frameY="0" frameWidth="129" frameHeight="174"/>
+	<SubTexture name="FlowerBop0011" x="804" y="5" width="128" height="174" frameX="-1" frameY="0" frameWidth="129" frameHeight="174"/>
+	<SubTexture name="FlowerBop0012" x="5" y="184" width="128" height="173" frameX="-1" frameY="-1" frameWidth="129" frameHeight="174"/>
+	<SubTexture name="FlowerBop0013" x="138" y="184" width="128" height="172" frameX="-1" frameY="-2" frameWidth="129" frameHeight="174"/>
+	<SubTexture name="FlowerBop0014" x="271" y="184" width="128" height="166" frameX="-1" frameY="-8" frameWidth="129" frameHeight="174"/>
+</TextureAtlas>

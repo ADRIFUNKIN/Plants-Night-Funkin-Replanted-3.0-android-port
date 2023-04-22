@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Lapollo.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LapolloBop0000" x="5" y="5" width="165" height="246" frameX="-2" frameY="-12" frameWidth="172" frameHeight="258"/>
+	<SubTexture name="LapolloBop0001" x="5" y="5" width="165" height="246" frameX="-2" frameY="-12" frameWidth="172" frameHeight="258"/>
+	<SubTexture name="LapolloBop0002" x="175" y="5" width="165" height="238" frameX="-3" frameY="-20" frameWidth="172" frameHeight="258"/>
+	<SubTexture name="LapolloBop0003" x="175" y="5" width="165" height="238" frameX="-3" frameY="-20" frameWidth="172" frameHeight="258"/>
+	<SubTexture name="LapolloBop0004" x="345" y="5" width="165" height="234" frameX="-4" frameY="-24" frameWidth="172" frameHeight="258"/>
+	<SubTexture name="LapolloBop0005" x="345" y="5" width="165" height="234" frameX="-4" frameY="-24" frameWidth="172" frameHeight="258"/>
+	<SubTexture name="LapolloBop0006" x="515" y="5" width="166" height="245" frameX="-6" frameY="-13" frameWidth="172" frameHeight="258"/>
+	<SubTexture name="LapolloBop0007" x="515" y="5" width="166" height="245" frameX="-6" frameY="-13" frameWidth="172" frameHeight="258"/>
+	<SubTexture name="LapolloBop0008" x="686" y="5" width="165" height="255" frameX="-2" frameY="-3" frameWidth="172" frameHeight="258"/>
+	<SubTexture name="LapolloBop0009" x="686" y="5" width="165" height="255" frameX="-2" frameY="-3" frameWidth="172" frameHeight="258"/>
+	<SubTexture name="LapolloBop0010" x="5" y="265" width="165" height="258" frameX="0" frameY="0" frameWidth="172" frameHeight="258"/>
+	<SubTexture name="LapolloBop0011" x="5" y="265" width="165" height="258" frameX="0" frameY="0" frameWidth="172" frameHeight="258"/>
+	<SubTexture name="LapolloBop0012" x="5" y="265" width="165" height="258" frameX="0" frameY="0" frameWidth="172" frameHeight="258"/>
+	<SubTexture name="LapolloBop0013" x="175" y="265" width="165" height="258" frameX="0" frameY="0" frameWidth="172" frameHeight="258"/>
+	<SubTexture name="LapolloBop0014" x="175" y="265" width="165" height="258" frameX="0" frameY="0" frameWidth="172" frameHeight="258"/>
+</TextureAtlas>

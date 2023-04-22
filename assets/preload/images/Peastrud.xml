@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Peastrud.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PeastrudBop0000" x="5" y="5" width="143" height="182" frameX="0" frameY="-11" frameWidth="180" frameHeight="193"/>
+	<SubTexture name="PeastrudBop0001" x="5" y="5" width="143" height="182" frameX="0" frameY="-11" frameWidth="180" frameHeight="193"/>
+	<SubTexture name="PeastrudBop0002" x="153" y="5" width="134" height="193" frameX="-15" frameY="0" frameWidth="180" frameHeight="193"/>
+	<SubTexture name="PeastrudBop0003" x="153" y="5" width="134" height="193" frameX="-15" frameY="0" frameWidth="180" frameHeight="193"/>
+	<SubTexture name="PeastrudBop0004" x="292" y="5" width="137" height="193" frameX="-19" frameY="0" frameWidth="180" frameHeight="193"/>
+	<SubTexture name="PeastrudBop0005" x="292" y="5" width="137" height="193" frameX="-19" frameY="0" frameWidth="180" frameHeight="193"/>
+	<SubTexture name="PeastrudBop0006" x="434" y="5" width="138" height="192" frameX="-18" frameY="-1" frameWidth="180" frameHeight="193"/>
+	<SubTexture name="PeastrudBop0007" x="434" y="5" width="138" height="192" frameX="-18" frameY="-1" frameWidth="180" frameHeight="193"/>
+	<SubTexture name="PeastrudBop0008" x="577" y="5" width="137" height="192" frameX="-18" frameY="-1" frameWidth="180" frameHeight="193"/>
+	<SubTexture name="PeastrudBop0009" x="577" y="5" width="137" height="192" frameX="-18" frameY="-1" frameWidth="180" frameHeight="193"/>
+	<SubTexture name="PeastrudBop0010" x="719" y="5" width="138" height="192" frameX="-17" frameY="-1" frameWidth="180" frameHeight="193"/>
+	<SubTexture name="PeastrudBop0011" x="862" y="5" width="138" height="192" frameX="-17" frameY="-1" frameWidth="180" frameHeight="193"/>
+	<SubTexture name="PeastrudBop0012" x="862" y="5" width="138" height="192" frameX="-17" frameY="-1" frameWidth="180" frameHeight="193"/>
+	<SubTexture name="PeastrudBop0013" x="5" y="203" width="137" height="190" frameX="-18" frameY="-3" frameWidth="180" frameHeight="193"/>
+	<SubTexture name="PeastrudBop0014" x="147" y="203" width="137" height="190" frameX="-18" frameY="-3" frameWidth="180" frameHeight="193"/>
+	<SubTexture name="PeastrudBop0015" x="289" y="203" width="141" height="182" frameX="-39" frameY="-11" frameWidth="180" frameHeight="193"/>
+	<SubTexture name="PeastrudBop0016" x="289" y="203" width="141" height="182" frameX="-39" frameY="-11" frameWidth="180" frameHeight="193"/>
+	<SubTexture name="PeastrudBop0017" x="435" y="203" width="136" height="190" frameX="-26" frameY="-3" frameWidth="180" frameHeight="193"/>
+	<SubTexture name="PeastrudBop0018" x="435" y="203" width="136" height="190" frameX="-26" frameY="-3" frameWidth="180" frameHeight="193"/>
+	<SubTexture name="PeastrudBop0019" x="576" y="203" width="137" height="193" frameX="-17" frameY="0" frameWidth="180" frameHeight="193"/>
+	<SubTexture name="PeastrudBop0020" x="576" y="203" width="137" height="193" frameX="-17" frameY="0" frameWidth="180" frameHeight="193"/>
+	<SubTexture name="PeastrudBop0021" x="718" y="203" width="137" height="192" frameX="-15" frameY="-1" frameWidth="180" frameHeight="193"/>
+	<SubTexture name="PeastrudBop0022" x="718" y="203" width="137" height="192" frameX="-15" frameY="-1" frameWidth="180" frameHeight="193"/>
+	<SubTexture name="PeastrudBop0023" x="860" y="203" width="137" height="192" frameX="-16" frameY="-1" frameWidth="180" frameHeight="193"/>
+	<SubTexture name="PeastrudBop0024" x="860" y="203" width="137" height="192" frameX="-16" frameY="-1" frameWidth="180" frameHeight="193"/>
+	<SubTexture name="PeastrudBop0025" x="5" y="401" width="137" height="192" frameX="-17" frameY="-1" frameWidth="180" frameHeight="193"/>
+	<SubTexture name="PeastrudBop0026" x="147" y="401" width="138" height="192" frameX="-17" frameY="-1" frameWidth="180" frameHeight="193"/>
+	<SubTexture name="PeastrudBop0027" x="147" y="401" width="138" height="192" frameX="-17" frameY="-1" frameWidth="180" frameHeight="193"/>
+	<SubTexture name="PeastrudBop0028" x="290" y="401" width="137" height="191" frameX="-15" frameY="-2" frameWidth="180" frameHeight="193"/>
+	<SubTexture name="PeastrudBop0029" x="432" y="401" width="137" height="191" frameX="-15" frameY="-2" frameWidth="180" frameHeight="193"/>
+</TextureAtlas>

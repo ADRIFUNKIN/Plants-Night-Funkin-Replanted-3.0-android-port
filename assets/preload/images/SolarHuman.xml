@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SolarHuman.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SolarBop0000" x="5" y="5" width="355" height="346" frameX="0" frameY="-7" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0001" x="5" y="5" width="355" height="346" frameX="0" frameY="-7" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0002" x="365" y="5" width="343" height="349" frameX="-12" frameY="-5" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0003" x="365" y="5" width="343" height="349" frameX="-12" frameY="-5" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0004" x="713" y="5" width="329" height="353" frameX="-26" frameY="-1" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0005" x="713" y="5" width="329" height="353" frameX="-26" frameY="-1" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0006" x="1047" y="5" width="322" height="355" frameX="-33" frameY="0" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0007" x="1047" y="5" width="322" height="355" frameX="-33" frameY="0" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0008" x="1374" y="5" width="324" height="354" frameX="-31" frameY="0" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0009" x="1374" y="5" width="324" height="354" frameX="-31" frameY="0" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0010" x="1703" y="5" width="326" height="353" frameX="-29" frameY="-1" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0011" x="5" y="365" width="325" height="354" frameX="-30" frameY="0" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0012" x="5" y="365" width="325" height="354" frameX="-30" frameY="0" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0013" x="335" y="365" width="322" height="354" frameX="-32" frameY="0" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0014" x="335" y="365" width="322" height="354" frameX="-32" frameY="0" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0015" x="662" y="365" width="317" height="351" frameX="-35" frameY="-4" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0016" x="662" y="365" width="317" height="351" frameX="-35" frameY="-4" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0017" x="984" y="365" width="322" height="352" frameX="-32" frameY="-2" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0018" x="984" y="365" width="322" height="352" frameX="-32" frameY="-2" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0019" x="1311" y="365" width="324" height="353" frameX="-31" frameY="-1" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0020" x="1311" y="365" width="324" height="353" frameX="-31" frameY="-1" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0021" x="1640" y="365" width="328" height="353" frameX="-27" frameY="-1" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0022" x="1640" y="365" width="328" height="353" frameX="-27" frameY="-1" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0023" x="5" y="724" width="328" height="354" frameX="-27" frameY="0" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0024" x="5" y="724" width="328" height="354" frameX="-27" frameY="0" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0025" x="338" y="724" width="325" height="354" frameX="-30" frameY="0" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0026" x="5" y="365" width="325" height="354" frameX="-30" frameY="0" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0027" x="5" y="365" width="325" height="354" frameX="-30" frameY="0" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0028" x="668" y="724" width="329" height="353" frameX="-26" frameY="-1" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0029" x="668" y="724" width="329" height="353" frameX="-26" frameY="-1" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0030" x="1002" y="724" width="355" height="346" frameX="0" frameY="-7" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0031" x="1002" y="724" width="355" height="346" frameX="0" frameY="-7" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0032" x="1362" y="724" width="343" height="349" frameX="-12" frameY="-5" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0033" x="1362" y="724" width="343" height="349" frameX="-12" frameY="-5" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0034" x="1710" y="724" width="329" height="353" frameX="-26" frameY="-1" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0035" x="1710" y="724" width="329" height="353" frameX="-26" frameY="-1" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0036" x="5" y="1083" width="322" height="355" frameX="-33" frameY="0" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0037" x="5" y="1083" width="322" height="355" frameX="-33" frameY="0" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0038" x="332" y="1083" width="324" height="354" frameX="-31" frameY="0" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0039" x="332" y="1083" width="324" height="354" frameX="-31" frameY="0" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0040" x="661" y="1083" width="326" height="353" frameX="-29" frameY="-1" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0041" x="992" y="1083" width="325" height="354" frameX="-30" frameY="0" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0042" x="992" y="1083" width="325" height="354" frameX="-30" frameY="0" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0043" x="1322" y="1083" width="322" height="354" frameX="-32" frameY="0" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0044" x="1322" y="1083" width="322" height="354" frameX="-32" frameY="0" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0045" x="1649" y="1083" width="317" height="351" frameX="-35" frameY="-4" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0046" x="1649" y="1083" width="317" height="351" frameX="-35" frameY="-4" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0047" x="5" y="1443" width="322" height="352" frameX="-32" frameY="-2" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0048" x="5" y="1443" width="322" height="352" frameX="-32" frameY="-2" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0049" x="332" y="1443" width="324" height="353" frameX="-31" frameY="-1" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0050" x="332" y="1443" width="324" height="353" frameX="-31" frameY="-1" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0051" x="661" y="1443" width="328" height="353" frameX="-27" frameY="-1" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0052" x="661" y="1443" width="328" height="353" frameX="-27" frameY="-1" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0053" x="994" y="1443" width="328" height="354" frameX="-27" frameY="0" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0054" x="994" y="1443" width="328" height="354" frameX="-27" frameY="0" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0055" x="1327" y="1443" width="325" height="354" frameX="-30" frameY="0" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0056" x="992" y="1083" width="325" height="354" frameX="-30" frameY="0" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0057" x="992" y="1083" width="325" height="354" frameX="-30" frameY="0" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0058" x="1657" y="1443" width="329" height="353" frameX="-26" frameY="-1" frameWidth="355" frameHeight="355"/>
+	<SubTexture name="SolarBop0059" x="1657" y="1443" width="329" height="353" frameX="-26" frameY="-1" frameWidth="355" frameHeight="355"/>
+</TextureAtlas>
